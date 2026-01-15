@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" description="NETFX4CLIENT component" displayName="NETFX4CLIENT System.Data.resources" copyright="Copyright (c) Microsoft Corporation. All Rights Reserved." isolated="false">
+  <assemblyIdentity name="System.Data.resources" version="4.0.15680.130" processorArchitecture="msil" language="tr-tr" buildType="release" publicKeyToken="b77a5c561934e089" />
+  <file hash="b773c9a620e8087e6a88742336cb57e71f38f437" hashalg="SHA1" name="System.Data.resources.dll" destinationPath="$(runtime.windows)\Microsoft.NET\Framework\v4.0.30319\tr\" sourceName="System.Data.resources.dll" sourcePath=".\" importPath="$(build.nttree)\loc\tr-tr\netfx\core\Win\Microsoft.NET\Framewor

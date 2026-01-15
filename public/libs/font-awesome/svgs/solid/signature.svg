@@ -1,0 +1,11 @@
+assemblyIdentity name="NetFx4-System.Xaml.resources" version="4.0.15680.120" processorArchitecture="amd64" language="nb-no" buildType="release" publicKeyToken="b03f5f7f11d50a3a"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="465f0d11d87146146cc3f9cdbba8caa8" version="4.0.15680.120" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="b03f5f7f11d50a3a" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="4471324-1487_neutral">
+			<applicable disposition="staged">
+				<updateComponent elevate="build">
+					<assemblyIdentity name="System.Window

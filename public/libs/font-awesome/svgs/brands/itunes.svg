@@ -1,0 +1,12 @@
+mary>Gets or sets a value that indicates whether a <see cref="T:System.Windows.Controls.ListBoxItem" /> is selected.  </summary>
+      <returns>true if the item is selected; otherwise, false. The default is false.</returns>
+    </member>
+    <member name="P:System.Windows.Controls.ListView.View">
+      <summary>Gets or sets an object that defines how the data is styled and organized in a <see cref="T:System.Windows.Controls.ListView" /> control.  </summary>
+      <returns>A <see cref="T:System.Windows.Controls.ViewBase" /> object that specifies how to display information in the <see cref="T:System.Windows.Controls.ListView" />.</returns>
+    </member>
+    <member name="P:System.Windows.Controls.MediaElement.Balance">
+      <summary>Gets or sets a ratio of volume across speakers.  </summary>
+      <returns>The ratio of volume across speakers in the range between -1 and 1. The default is 0.</returns>
+    </member>
+    <member nam

@@ -1,0 +1,15 @@
+SqBwQ=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="RunAsHelper.strings.psd1" destinationPath="$(runtime.System32)\WindowsPowerShell\v1.0\Modules\PSDesiredStateConfiguration\DSCResources\cs-CZ\" sourceName="RunAsHelper.strings.psd1" sourcePath=".\" importPath="$(build.nttree)\loc\cs-cz\dsc\">
+    <securityDescriptor name="WRP_FILE_DEFAULT_SDDL" />
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">j3UF7R937T1S/F3Q9EGo0EzQGiQYIvKjUpJ95MoQVAo=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="WindowsPackageCab.Strings.psd1" destinationPath="$(runtime.System32)\WindowsPowerShell\v1.0\Modules\PSDesiredStateConfiguration\DSCClassResources\WindowsPackageCab\cs-CZ\" sourceName="WindowsPackageCab.Strings.psd1" sourcePath=".\" importPath="$(build.nttree)\loc\cs-cz\dsc\">
+    <securityDescriptor

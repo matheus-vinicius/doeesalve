@@ -1,0 +1,10 @@
+="HKEY_CLASSES_ROOT\CLSID\{0C3B05FB-3498-40C3-9C03-4B22D735550C}\Elevation\">
+      <registryValue name="Enabled" valueType="REG_DWORD" value="0x00000001" />
+      <registryValue name="IconReference" valueType="REG_EXPAND_SZ" value="@%SystemRoot%\system32\rasdlg.dll,-562" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\CLSID\{0C3B05FB-3498-40C3-9C03-4B22D735550C}\InProcServer32\">
+      <registryValue name="" valueType="REG_EXPAND_SZ" value="%SystemRoot%\System32\rasdlg.dll" />
+      <registryValue name="ThreadingModel" valueType="REG_SZ" value="Apartment" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{9271B890-7BBF-48DB-ACB3-F973DC34156D}\">
+      <registryValue name="" valueType="REG_SZ" value="IRasDlgAdminOrNCO

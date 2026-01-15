@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" description="NETFX4CLIENT component" displayName="NETFX4CLIENT NetFx4-System.Windows.Controls.Ribbon.resources" copyright="Copyright (c) Microsoft Corporation. All Rights Reserved." isolated="false">
+  <assemblyIdentity name="NetFx4-System.Windows.Controls.Ribbon.resources" version="4.0.15680.120" processorArchitecture="amd64" language="ko-kr" buildType="release" publicKeyToken="b03f5f7f11d50a3a" />
+  <file hash="de784790d7f0a75986b2a65197187499df185009" hashalg="SHA1" name="System.Windows.Controls.Ribbon.resources.dll" destinationPath="$(runtime.windows)\Microsoft.NET\Framework64\v4.0.30319\WPF\ko\" sou

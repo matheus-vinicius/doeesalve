@@ -1,0 +1,8 @@
+crosoft-Windows-Hello-Face-Resource-C-Package" Version="10.0.17134.1">
+      <Payload>
+        <PayloadItem PayloadHash="V/HaqjkQ2SEeigMgtXLlhopRMdLnMBE8K3hFoRV76R4=" PayloadSize="10721957" Path="FeaturesOnDemand\neutral\cabs\Microsoft-Windows-Hello-Face-Resource-C-Package~31bf3856ad364e35~amd64~~.cab" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-OneCore-ApplicationModel-Sync-Desktop-FOD-Package" Version="10.0.17134.1">
+      <Payload>
+        <PayloadItem PayloadHash="fDb947wfuCmbfBAECRP11RRsqJq5EuCTnn1rJGz8wBs=" PayloadSize=

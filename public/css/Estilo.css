@@ -1,0 +1,61 @@
+/* UTILIDADES */
+.pointer{
+    cursor: pointer;
+}
+
+/* CABEÇALHO */
+#barra-topo,
+#barra-topo a{
+    background-color: #800 !important;
+    color: #fff;
+}
+
+#barra-topo a{
+    min-width: 45px;
+    min-height: 45px;
+    padding: 5px !important;
+}
+
+#barra-topo a:hover{
+    background-color: #fff !important;
+    color: #800 !important;
+    border-radius: 10px;
+}
+
+#logo-topo{
+    width:15rem !important;
+}
+
+.fonte{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    text-align: justify;
+}
+
+.estrelas{
+    width: 120px;
+    height: 70px;
+}.estrelas input[type=radio]{
+    display: none;
+}.estrelas label i.fa:before{
+    content: '\f005';
+    color: #9c0c16;
+}.estrelas  input[type=radio]:checked  ~ label i.fa:before{
+    color: #CCC;
+}
+
+.col-md-12{
+    border: 1px solid black;
+}
+
+.item-box-blog {
+    text-align: center;
+    z-index: 4;
+    margin-top: 25px;
+}
+
+.containermap{
+    margin-left: 25%;
+}
+

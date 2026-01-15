@@ -1,0 +1,27 @@
+crosoft-Windows-Hello-Face-Resource-C-Package" Version="10.0.17134.1">
+      <Payload>
+        <PayloadItem PayloadHash="V/HaqjkQ2SEeigMgtXLlhopRMdLnMBE8K3hFoRV76R4=" PayloadSize="10721957" Path="FeaturesOnDemand\neutral\cabs\Microsoft-Windows-Hello-Face-Resource-C-Package~31bf3856ad364e35~amd64~~.cab" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-OneCore-ApplicationModel-Sync-Desktop-FOD-Package" Version="10.0.17134.1">
+      <Payload>
+        <PayloadItem PayloadHash="fDb947wfuCmbfBAECRP11RRsqJq5EuCTnn1rJGz8wBs=" PayloadSize="4120867" Path="FeaturesOnDemand\neutral\cabs\Microsoft-OneCore-ApplicationModel-Sync-Desktop-FOD-Package~31bf3856ad364e35~amd64~~.cab" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_OpenSSH-Client-Package" Version="10.0.17134.1">
+      <Payload>
+        <PayloadItem PayloadHash="rWHn6a0pNotWSTFH8Xjp6HLHBNIpvJB81Uf4Q5aAzeU=" PayloadSize="1446433" Path="FeaturesOnDemand\neutral\cabs\OpenSSH-Client-Package~31bf3856ad364e35~amd64~~.cab" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="AMD64_Microsoft.ModernApps.ClientN.All" Version="10.0.17134.1">
+      <Payload>
+        <PayloadItem PayloadHash="PrxvDbEsaCxueQ1JTlRgZZ6s1+rhv+1hpo4k6aSRzXk=" PayloadSize="267012915" Path="UUP\Desktop\Apps\Microsoft.ModernApps.ClientN.All.esd" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-Client-LanguagePack-Package_sk-sk" Version="10.0.17134.1">
+      <Payload>
+        <PayloadItem PayloadHash="sPV79JsKQ0aO9AK+2lTFYgpIR+K9OhOyTEqBMv71EEI=" PayloadSize="23533066" Path="UUP\Desktop\EditionPackages\sk-sk\Client\amd64fre_Client_sk-sk_lp.esd" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-LanguageFeatures-Basic-sk-sk-Package" Version="10.0.17134.1">
+      <Payload>

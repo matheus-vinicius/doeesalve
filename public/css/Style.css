@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container04 {
+  background-color: #AB4243;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+  width: 200px
+} 
+
+#containerrg{
+	float: center;
+	width: 100%;
+}
+
+a:link{
+  color: #000 !important;
+}
+
+a:visited{
+  color:#000 !important;
+}
+
+a:hover{
+  color:#dac8c8 !important;
+} /* Arrumar os links da barra02 */
+
+/*Login.php*/
+.card-login {
+  margin-top: 150px;
+  padding: 18px;
+  max-width: 25rem;
+  background-color: #dac8c8 !important;
+  opacity: 0.8;
+  border: 2px solid #9c0c16;
+  border-radius: 5px;
+}
+
+.card-header {
+  font-weight: 600 !important;
+  margin-top: 50px;
+  border-bottom: 0;
+  background-color: #dac8c8 !important;
+  opacity: 0.9;
+}

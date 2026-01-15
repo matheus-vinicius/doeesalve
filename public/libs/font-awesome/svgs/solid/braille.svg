@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" description="Fix for KB4471324" displayName="default" company="Microsoft Corporation" copyright="Microsoft Corporation" supportInformation="http://support.microsoft.com/?kbid=4471324" creationTimeStamp="2018-12-08T18:37:56Z" lastUpdateTimeStamp="2018-12-08T18:37:56Z">
+	<assemblyIdentity name="Package_1379_for_KB4471324" version="10.0.1.5" language="neutral" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35"/>
+	<package identifier="KB4471324" releaseType="Security Update" restart="possible" psfName="Windows10.0-KB4471324-x64.psf">
+		<parent buildCompare="EQ" integrate="separate" disposition="detect">
+			<assemblyIdentity name="Microsoft-Windows-Client-Features-Package001021" version="10.0.17134.1" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35"/>
+			<assemblyIdentity name="Microsoft-Windows-Client-Features-Package0011" version="10.0.17134.1" processorArchitectu

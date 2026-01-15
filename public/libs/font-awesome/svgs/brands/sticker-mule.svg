@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" description="NETFX4CLIENT component" displayName="NETFX4CLIENT UIAutomationClient.resources" copyright="Copyright (c) Microsoft Corporation. All Rights Reserved." isolated="false">
+  <assemblyIdentity name="UIAutomationClient.resources" version="4.0.15680.120" processorArchitecture="msil" language="ko-kr" buildType="release" publicKeyToken="31bf3856ad364e35" />
+  <file hash="83a452147a23c2bda6d3153ca83c49fa89adf93b" hashalg="SHA1" name="UIAutomationClient.resources.dll" destinationPath="$(runtime.windows)\Microsoft.NET\Framework\v4.0.30319\WPF\ko\" sourceName="UIAutomationClient.resources.dll" sourcePath=".\" importPath="$(build.nttree)\loc\ko-kr\netfx\core\Win\Microsoft.NET\Framework\v4\WPF\ko\">
+    <securityDescriptor name="WRP_FILE_DEFAULT_SDDL" />
+    <gac xmlns="urn:schemas-microsoft-com:asm.v3" clrversion="4.0" managedculture="ko" managedversion="4.0.0.0" />
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">fH/ZIFGa+J7iYqIkX2EZSC1FW9kqf38xdOkAJETR5ls=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <trustInfo>
+    <security>
+      <accessControl>
+        <security

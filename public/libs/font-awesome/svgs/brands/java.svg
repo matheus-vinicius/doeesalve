@@ -1,0 +1,15 @@
+associated with the media. Audio files will return zero.</returns>
+    </member>
+    <member name="P:System.Windows.Controls.MediaElement.NaturalVideoWidth">
+      <summary>Gets the width of the video associated with the media.</summary>
+      <returns>The width of the video associated with the media.</returns>
+    </member>
+    <member name="P:System.Windows.Controls.MediaElement.Position">
+      <summary>Gets or sets the current position of progress through the media's playback time.</summary>
+      <returns>The amount of time since the beginning of the media. The default is 00:00:00.</returns>
+      <exception cref="T:System.InvalidOperationException">The <see cref="P:System.Windows.Controls.MediaElement.Clock" /> property is not null.</exception>
+    </member>
+    <member name="P:System.Windows.Controls.MediaElement.ScrubbingEnabled">
+      <summary>Gets or sets a value that indicates whether the <see cref="T:System.Windows.Controls.MediaElement" /> will update frames for seek operations while paused. </summary>
+      <returns>true if frames are updated while paused; otherwise, false. The default is false.</returns>
+    </m

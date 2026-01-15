@@ -1,0 +1,17 @@
+>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{20a59fa6-a844-4630-9e98-175f70b4d55b}\ProxyStubClsid\">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{20a59fa6-a844-4630-9e98-175f70b4d55b}\ProxyStubClsid32\">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{20a59fa6-a844-4630-9e98-175f70b4d55b}\TypeLib\">
+      <registryValue name="" valueType="REG_SZ" value="{9CDCD9C9-BC40-41C6-89C5-230466DB0BD0}" />
+      <registryValue name="Version" valueType="REG_SZ" value="2.0" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{abf35c99-0681-47ea-9a8c-1436a375a99e}\">
+      <securityDescriptor name="WRP_REGKEY_DEFAULT_SDDL" />
+      <registryValue name="" valueType="REG_SZ" value="IFeedEvents" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{abf35c99-0681-47ea-9a8c-1436a375a99e}\ProxyStubClsid\">
+      <registryValue n

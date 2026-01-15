@@ -1,0 +1,25 @@
+="b77a5c561934e089"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="2b825b480982292384a0808815e33d00" version="4.0.15680.120" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="b77a5c561934e089" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="4471324-1480_neutral">
+			<applicable disposition="staged">
+				<updateComponent elevate="build">
+					<assemblyIdentity name="NetFx4-UIAutomationTypes.resources" version="4.0.15680.120" processorArchitecture="amd64" language="nb-no" buildType="release" publicKeyToken="b03f5f7f11d50a3a"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="3c78dc95d0aac1c171a2dc29930d59cf" version="4.0.15680.120" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="b03f5f7f11d50a3a" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="4471324-1481_neutral">
+			<applicable disposition="staged">
+				<updateComponent elevate="build">
+					<assemblyIdentity name="PresentationFramework.resources" version="4.0.15680.120" processorArchitecture="msil" language="nb-no" buildType="release" publicKeyToken="31bf3856ad364e35"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="cc69489e9c28398e6476c3c70658b0c2" version="4.0.15680.120" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="non

@@ -1,0 +1,21 @@
+onent elevate="build">
+					<assemblyIdentity name="UIAutomationClient.resources" version="4.0.15680.120" processorArchitecture="msil" language="tr-tr" buildType="release" publicKeyToken="31bf3856ad364e35"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="8e097a9cdb7759874172249fbea72145" version="4.0.15680.120" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="4471324-1733_neutral">
+			<applicable disposition="staged">
+				<updateComponent elevate="build">
+					<assemblyIdentity name="System.Security.resources" version="4.0.15680.110" processorArchitecture="msil" language="tr-tr" buildType="release" publicKeyToken="b03f5f7f11d50a3a"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="541a76955fda63e1e785fbd1242b97aa" version="4.0.15680.110" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="b03f5f7f11d50a3a" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="4471324-1734_neutral">
+			<applicable disposition="staged">
+				<updateComponent

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompDB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" CreatedDate="2018-04-12T15:44:32.904081Z" Revision="1" SchemaVersion="1.2" Product="Desktop" BuildID="d3831750-24ad-f1a9-fbbb-7f302bb3c404" BuildInfo="rs4_release.17134.1.180410-1804" OSVersion="10.0.17134.1" BuildArch="AMD64" ReleaseType="Production" Type="Build" xmlns="http://schemas.microsoft.com/embedded/2004/10/ImageUpdate">
+  <Tags Type="Language">
+    <Tag Name="Language" Value="ti-et" />
+    <Tag Name="UpdateType" Value="Canonical" 

@@ -1,0 +1,44 @@
+num name="Transverse" value="7" text="@propsys.dll,-39463">
+					</enum>
+					<enum name="Rotate90" value="8" text="@propsys.dll,-39464">
+					</enum>
+				</enumeratedList>
+			</displayInfo>
+			<labelInfo label="@propsys.dll,-38839">
+			</labelInfo>
+		</propertyDescription>
+		<propertyDescription name="System.Photo.OrientationText" formatID="{A9EA193C-C511-498A-A06B-58E2776DCC28}" propID="100">
+			<searchInfo reIndexPatterns="" processReIndexPatternsImmediately="true" inInvertedIndex="true" isColumn="true" columnIndexType="OnDemand" mnemonics="@propsys.dll,-39503">
+			</searchInfo>
+			<typeInfo type="String" isInnate="true">
+			</typeInfo>
+		</propertyDescription>
+		<propertyDescription name="System.Photo.PeopleNames" formatID="{E8309B6E-084C-49B4-B1FC-90A80331B638}" propID="100">
+			<searchInfo reIndexPatterns="" processReIndexPatternsImmediately="true" inInvertedIndex="true" useForTypeAhead="true" isColumn="true" isColumnSparse="true" columnIndexType="OnDemand" mnemonics="@propsys.dll,-41266">
+			</searchInfo>
+			<typeInfo type="String" canBePurged="true" isInnate="true" multipleValues="true" aggregationType="Union" isViewable="true" searchRawValue="true">
+			</typeInfo>
+			<displayInfo defaultColumnWidth="11">
+			</displayInfo>
+			<labelInfo label="@propsys.dll,-41264" invitationText="@propsys.dll,-41265">
+			</labelInfo>
+		</propertyDescription>
+		<propertyDescription name="System.Photo.PhotometricInterpretation" formatID="{341796F1-1DF9-4B1C-A564-91BDEFA43877}" propID="100">
+			<searchInfo reIndexPatterns="" processReIndexPatternsImmediately="true" inInvertedIndex="false" isColumn="false">
+			</searchInfo>
+			<typeInfo type="UInt16" isInnate="true">
+			</typeInfo>
+			<aliasInfo sortByAlias="System.Photo.PhotometricInterpretationText">
+			</aliasInfo>
+			<displayInfo displayType="Enumerated">
+				<enumeratedList>
+					<enum name="RGB" value="2" text="@propsys.dll,-39465">
+					</enum>
+					<enum name="YCbCr" value="6" text="@propsys.dll,-39466">
+					</enum>
+				</enumeratedList>
+			</displayInfo>
+			<labelInfo label="@propsys.dll,-38592">
+			</labelInfo>
+		</propertyDescription>
+		<pr

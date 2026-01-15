@@ -1,0 +1,21 @@
+>1</filterpriority>
+      <PermissionSet>
+        <IPermission class="System.Security.Permissions.FileIOPermission, mscorlib, Version=2.0.3600.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" version="1" Unrestricted="true" />
+      </PermissionSet>
+    </member>
+    <member name="P:System.Data.SqlClient.SqlConnection.DataSource">
+      <summary>Obtiene el nombre de la instancia de SQL Server con la que se va a establecer la conexión.</summary>
+      <returns>Nombre de la instancia de SQL Server con la que se va a establecer la conexión.El valor predeterminado es una cadena vacía.</returns>
+      <filterpriority>1</filterpriority>
+      <PermissionSet>
+        <IPermission class="System.Security.Permissions.FileIOPermission, mscorlib, Version=2.0.3600.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" version="1" Unrestricted="true" />
+      </PermissionSet>
+    </member>
+    <member name="P:System.Data.SqlClient.SqlConnection.FireInfoMessageEventOnUserErrors">
+      <summary>Obtiene o establece la propiedad <see cref="P:System.Data.SqlClient.SqlConnection.FireInfoMessageEventOnUserErrors" />.</summary>
+      <returns>Es true si se ha establecido la propiedad <see cref="P:System.Data.SqlClient.SqlConnection.FireInfoMessageEventOnUserErrors" />; de lo contrario, es false.</returns>
+      <filterpriority>2</filterpriority>
+    </member>
+    <member name="E:System.Data.SqlClient.SqlConnection.InfoMessage">
+      <summary>Se produce cuando SQL Server devuelve un mensaje informativo o de advertencia.</summary>
+      <filterpriority>2</fil

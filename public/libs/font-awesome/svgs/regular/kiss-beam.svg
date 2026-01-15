@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" description="NETFX4CLIENT component" displayName="NETFX4CLIENT PresentationCore.resources" copyright="Copyright (c) Microsoft Corporation. All Rights Reserved." isolated="false">
+  <assemblyIdentity name="PresentationCore.resources" version="4.0.15680.120" processorArchitecture="msil" language="sv-se" buildType="release" publicKeyToken="31bf3856ad364e35" />
+  <file hash="ff96df53991e734b31f8e92724844d8e0ab88e6a" hashalg="SHA1" name="PresentationCore.resources.dll" destinationPath="$(runtime.windows)\Microsoft.NET\Framework\v4.0.30319\WPF\sv\" sourceName="PresentationCore.resources.dll" sourcePath=".\" importPath="$(build.nttree)\loc\sv-se\netfx\core\Win\Microsoft.NET\Framework\v4\WPF\sv\">
+    <securityDescriptor name="WRP_FILE_DEFAULT_SDDL" />
+    <gac xmlns="urn:schemas-microsoft-com:asm.v3" clrversion="4.0" managedculture="sv" managedversion="4.0.0.0" />
+    <asm

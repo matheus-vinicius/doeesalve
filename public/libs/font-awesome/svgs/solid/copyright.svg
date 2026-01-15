@@ -1,0 +1,8 @@
+:InitWindow() : InitWindow:SelectHDESK to Default (41a0) from b0
+2019-07-02T10:51:09.518: [INFO] LRESULT DesktopWndProc(HWND, UINT, WPARAM, LPARAM) : wmcreate
+2019-07-02T10:51:09.518: [INFO] BOOL vncDesktop::InitWindow() : OOOOOOOOOOOO load hookdll's
+2019-07-02T10:51:09.518: [ERR] BOOL vncDesktop::InitWindow() : OOOOOOOOOOOO start dispatch
+ --N�o foi poss�vel encontrar o m�dulo especificado.
+2019-07-02T10:51:09.518: [INFO] void vncDesktop::SethookMechanism(BOOL, BOOL) : Sethook_restart_wanted hook=0 driver=1
+2019-07-02T10:51:09.518: [INFO] void vncDesktop::SethookMechanism(BOOL, BOOL) : Hookdll status changed
+2019-07-02T10:51:09.643

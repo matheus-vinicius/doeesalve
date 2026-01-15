@@ -1,0 +1,21 @@
+496c7eacfd41651d00" version="4.0.15680.120" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="4471324-1447_neutral">
+			<applicable disposition="staged">
+				<updateComponent elevate="build">
+					<assemblyIdentity name="WindowsBase.resources" version="4.0.15680.120" processorArchitecture="msil" language="ja-jp" buildType="release" publicKeyToken="31bf3856ad364e35"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="ee67612485d917909040aaa7ab1f0050" version="4.0.15680.120" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="4471324-1448_neutral">
+			<applicable disposition="staged">
+				<updateComponent elevate="build">
+					<assemblyIdentity name="NetFx4-System.Xaml.resources" version="4.0.15680.120" processorArchitecture="amd64" language="ja-jp" buildType="release" publicKeyToken="b03f5f7f11d50a3a"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="11320a213

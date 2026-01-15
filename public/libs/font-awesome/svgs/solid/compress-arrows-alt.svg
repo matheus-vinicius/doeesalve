@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0">
+  <assemblyIdentity name="Product-winpe__c_media.inf.Resources" version="10.0.17134.83" processorArchitecture="amd64" language="hu-HU" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+  <file name="c_media.inf_loc" destinationPath="$(runtime.system32)\driverstore\hu-HU\" sourceName="c_media.inf_loc" importPath="$(build.nttree)\loc\hu-hu\mui_infs\winpe\">
+    <securityDescriptor name="WRP_FILE_DEFAULT_SDDL" buildFilter="" />
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+ 

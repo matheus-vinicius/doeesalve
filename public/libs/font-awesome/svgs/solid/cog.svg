@@ -1,0 +1,15 @@
+f7f11d50a3a"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="3718a9119cafc15a1b0d9f3c0a5e3ca5" version="4.0.15680.120" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="b03f5f7f11d50a3a" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="4471324-1779_neutral">
+			<applicable disposition="staged">
+				<updateComponent elevate="build">
+					<assemblyIdentity name="System.Windows.Controls.Ribbon.resources" version="4.0.15680.120" processorArchitecture="msil" language="zh-tw" buildType="release" publicKeyToken="b77a5c561934e089"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="4933b09da2b195bb17cb8a62e49401f6" version="4.0.15680.120" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="b77a5c561934e089" versionSco

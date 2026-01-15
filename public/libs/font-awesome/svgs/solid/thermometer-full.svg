@@ -1,0 +1,11 @@
+System.Core.resources" version="4.0.15680.120" processorArchitecture="msil" language="fr-fr" buildType="release" publicKeyToken="b77a5c561934e089"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="25474830feb4c11d6f5ce8ba96e5a576" version="4.0.15680.120" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="b77a5c561934e089" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="4471324-1342_neutral">
+			<applicable disposition="staged">
+				<updateComponent elevate="build">
+					<assemblyIdentity name="NetFx4-UIAutomationClientsideProviders.resources" version="4.0.15680.120" processo

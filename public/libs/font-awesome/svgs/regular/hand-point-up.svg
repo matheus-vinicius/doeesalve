@@ -1,0 +1,29 @@
+
+        </include>
+        <merge script="MigXmlHelper.SourcePriority()">
+          <objectSet>
+            <pattern type="Registry">HKCU\SOFTWARE\Microsoft\Feeds\* [*]</pattern>
+            <pattern type="File">%CSIDL_LOCAL_APPDATA%\Microsoft\Feeds\* [*]</pattern>
+            <pattern type="File">%CSIDL_LOCAL_APPDATA%\Microsoft\Feeds Cache\* [*]</pattern>
+            <pattern type="File">%CSIDL_INTERNET_CACHE%\Enclosure\* [*]</pattern>
+          </objectSet>
+        </merge>
+      </rules>
+      <rules context="User">
+        <detects>
+          <detect>
+            <condition negation="Yes">MigXmlHelper.IsUpgrade()</condition>
+          </detect>
+        </detects>
+        <exclude>
+          <objectSet>
+            <pattern type="Registry">HKCU\SOFTWARE\Microsoft\Feeds [SyncStatus]</pattern>
+            <pattern type="Registry">HKCU\SOFTWARE\Microsoft\Feeds [SyncTaskName]</pattern>
+            <pattern type="Registry">HKCU\SOFTWARE\Microsoft\Feeds [SyncTask]</pattern>
+          </objectSet>
+        </exclude>
+      </rules>
+    </migXml>
+    <supportedComponents>
+      <supportedComponent>
+ 

@@ -1,0 +1,14 @@
+updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="041327b1faa0b263e5279105b4584236" version="4.0.15680.120" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="b77a5c561934e089" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="4471324-1457_neutral">
+			<applicable disposition="staged">
+				<updateComponent elevate="build">
+					<assemblyIdentity name="mscorlib.resources" version="4.0.15680.130" processorArchitecture="msil" language="ko-kr" buildType="release" publicKeyToken="b77a5c561934e089"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="28fcc0b663a0a45303f1a1975a0e3243" version="4.0.15680.130" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="b77a5c561934

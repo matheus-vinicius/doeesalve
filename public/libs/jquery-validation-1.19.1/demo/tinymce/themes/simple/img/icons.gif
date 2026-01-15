@@ -1,0 +1,24 @@
+oundation-Package.ESD" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-Client-Features-Package" Version="10.0.17134.1">
+      <Payload>
+        <PayloadItem PayloadHash="xTLn1yYAL3zljImFMMp8rxGkhnEi2wVcqNczCemCehk=" PayloadSize="768814451" Path="UUP\Desktop\editionPackages\neutral\Microsoft-Windows-Client-Features-Package.ESD" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-Client-Features-WOW64-Package" Version="10.0.17134.1">
+      <SatelliteInfo>
+        <DeclareInfo>
+          <Declare Type="arch" Value="wow64" />
+        </DeclareInfo>
+      </SatelliteInfo>
+      <Payload>
+        <PayloadItem PayloadHash="dDswoQaJj0zV0uAwpEfq2ZsqWrRUBVX+p3a6EYJfrfU=" PayloadSize="267602839" Path="UUP\Desktop\editionPackages\neutral\Microsoft-Windows-Client-Features-WOW64-Package.ESD" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-EditionPack-Enterprise-Package" Version="10.0.17134.1">
+      <Payload>
+        <PayloadItem PayloadHash="z3rPKiaPHCaD6CzC3xsyc58DeQCbE02W6RRbHZJeGeA=" PayloadSize="460472993" Path="UUP\Desktop\editionPackages\neutral\Microsoft-Windows-EditionPack-Enterprise-Package.ESD" PayloadType="Canonical" />
+      </Payload>
+    </Package>
+    <Package ID="amd64_Microsoft-Windows-EditionPack-Enterprise-WOW64-Package" Version="10.0.1713
